@@ -1,3 +1,6 @@
 name: Notes from a Custard Apple
 theme: jekyll-theme-slate
 description: Various notes on technical themes. 
+
+permalink: /blog/:year/:month/:day/:title
+
