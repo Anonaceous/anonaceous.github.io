@@ -1,3 +1,3 @@
-# Michael's Study Log
+# Notes 
 
 Watch this space...
